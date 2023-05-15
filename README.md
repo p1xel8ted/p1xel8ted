@@ -14,7 +14,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=p1xel8ted&show_icons=true" />
 </picture>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p1xel8ted&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p1xel8ted&repo=Moonlighter)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p1xel8ted&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
