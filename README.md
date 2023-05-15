@@ -1,6 +1,8 @@
 <div id="header" >
   <img src="header.jpg" width="100%"/>
+  </br>
 </div>
+  </br>
 <div id="badges">
   <img src="https://img.shields.io/badge/Kofi-red?style=for-the-badge&logo=kofi&logoColor=white" alt="Kofi Badge"/>
   <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
