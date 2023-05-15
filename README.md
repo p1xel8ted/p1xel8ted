@@ -1,5 +1,5 @@
 <div id="header" >
-  <img src="header.jpg" width="100"/>
+  <img src="header.jpg" width="100%"/>
 </div>
 <div id="badges">
   <img src="https://img.shields.io/badge/Kofi-red?style=for-the-badge&logo=kofi&logoColor=white" alt="Kofi Badge"/>
